@@ -18,13 +18,10 @@ Atuar com desenvolvimento de sistemas web com linguagem PHP.
 * **MKCidade(01/09/2015 – 01/03/2016):** Trabalhei nesta empresa com o desenvolvimento de sistemas de grande porte em *php* no framework *CodeIgniter*.
 
 ##Conhecimentos
-* Desenvolvimento de HTML5, CSS3, Sass;
-* Desenvolvimento Responsivo (*Twitter Bootstrap*) e Acessível
-* Desenvolvimento logico de javaScript e PHP;
-* Desenvolvimento PHP Orientado Objeto e framework Codeigniter (*MVC*) e Cakephp (*MVC*);
-* Conhecimento em Drupal e WordPress;
-* Conhecimento em estrutura de Dados em Java;
-* Conhecimento em Banco de Dados em MySQL e SQL Server;
-* Conhecimentos em Adobe Photoshop;
-* Conhecimento em Jquery;
+* HTML5, CSS3, Responsivo (*Twitter Bootstrap*) e Acessível
+* Logico de javaScript(Jquery) e PHP;
+* PHP Orientado Objeto e framework Codeigniter (*MVC*), Laravel (*MVC*) e Cakephp (*MVC*);
+* Drupal e WordPress;
+* Estrutura de Dados em Java;
+* Banco de Dados em MySQL e SQL Server;
 * Conhecimento em Versionamento Git
